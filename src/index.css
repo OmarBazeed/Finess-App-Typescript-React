@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+  @apply bg-gray-20 font-dmsans text-2xl font-extrabold hover:bg-red-200 duration-500;
+}
