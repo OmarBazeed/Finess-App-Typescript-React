@@ -1,4 +1,4 @@
-##  Fitness App Using `React` , `Typescript` With Helping OF `vite`  :
+##  Fitness App Using `React` , `Typescript` With Helping OF `vite` (FrontEnd Tooling)  :
  + `vite` Is The Enviroment Witch Manage Us To Create A React Application With Typescript Or Not . It Makes The App Very Fast ==> ( npm create vite@latest YourAppName )  
  + Creating The Application Using `React`,`Typescript` With Some Libraries Like `framer-motion` , `react-anchor-link-smooth-scroll
 ` , `react-hook-form` , `hero icons` And `formSubmit` And `tailwind css` For Styling
